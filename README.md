@@ -89,7 +89,7 @@ The Neural Network successfully learned unmodeled dynamics and compensated for d
 
 --- 
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 
